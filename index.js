@@ -1,7 +1,7 @@
 class Tree {
   
   constructor(species) {
-    this.species = specis;
+    this.species = species;
   }
   
   static definition() {
